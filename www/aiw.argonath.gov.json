@@ -1,0 +1,26 @@
+{
+	"domain": "aiw.argonath.gov",
+	"owner": "ArgonathRPG",
+	"data": [
+		"1",
+		"generic_page",
+		"restrict_payment_gateway",
+		"restrict_location",
+		"restrict_inventory"
+	],
+	"menu": [
+		"Home",
+		"Mayors"
+	],
+	"pages": [
+		"Welcome to the United States of Argonath RPG San Andreas website.",
+		"TBA",
+	],
+	"response": [
+		"",
+		"",
+		""
+	], 
+	"functions": [],
+	"local_function": {}
+}
