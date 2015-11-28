@@ -1,0 +1,36 @@
+{
+	"domain": "aiw.pcammu.bizz.json",
+	"owner": "Stivi_Gvardia",
+	"data": [
+		"",
+		"",
+		"",
+		"",
+		""
+	],
+	"menu": [
+		"Home",
+		"About Us",
+		"Shop",
+	],
+	"pages": [
+		"Welcome to the Palomino-Creek Ammu-Nation site!
+		This ammu-nation is owned by Gvardia Ammu-Nation Co., San Andreas' largest arms supplier!
+		Our goal is to help you find the perfect gun, for whatever your needs! Take a look and I promise you'll stick around.",
+		"Gvardia AmmuNation Co, is a business developed by the Gvardia Corporation since 2008.
+		In its history it became the biggest arms company in producing and supplying the market,
+		with stores all over San Andreas. After the Government nationalization of private
+		businesses, the company had a tough path, to re gain its position on the market. 
+		Today the Company is back on its feet, controlling over fifty percent of the market.",
+		"This part is still under construction, we're sorry! 
+		We are soon going to be delivering, we just haven't finished our website yet! 
+		While we finish stuff in the background, visit our gunstore and purchase ANYTHING that oure state allows!",
+	],
+	"response": [
+		"",
+	], 
+	"functions": [
+		""
+	],
+	"local_function": {}
+}
