@@ -7,5 +7,5 @@ The Argonath RPG Interactive Web for RS5.1
 #### .gov
 .gov is restricted to Argonath Government
 
-#### Open Soruce
+#### Open Source
 All websites created for Argonath Interactive Web by players, it's developers, and staff are released open source. Meaning any player can see the code behind all websites in-game. However our processing engine and in-game scripts for displaying web pages are NOT open source.
